@@ -1,0 +1,111 @@
+---
+title: "Come si legge una statistica"
+subtitle: "Una breve introduzione <html><div style='float:left'></div><hr color='#0070C0' size=2px></html>" 
+author: "*di Pau Origoni (Ufficio di statistica)*"
+institute: "Corso di giornalismo della svizzera italiana"
+date: "Sabato 14 dicembre **| Modulo 11: Statistica - Etica**"
+output:
+  xaringan::moon_reader:
+    css: [default, "metropolis_ustat.css", "metropolis-fonts", "specifici.css"]
+    lib_dir: immagini
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+      ratio: 16:9
+---
+
+layout: true
+
+background-image: url(immagini/logoTI_slides.png)
+background-position: 1.5% 96.5%
+
+---
+
+```{r setup, include=FALSE}
+
+options(htmltools.dir.version = FALSE)
+
+```
+
+
+# Cosa è la statistica pubblica? Cosa fa?
+
+.left-column[
+#### Compiti della statistica cantonale
+
+]
+
+--
+
+.right-column[
+*Legge statistica cantonale (LStaC)*  
+##### Art. 3
+.font60[
+<sup>1</sup> La statistica cantonale fornisce alla collettività […] informazioni pertinenti, corrette e imparziali […] sulla popolazione, l’economia, la vita sociale, l’ambiente e l’uso del territorio.  
+<br>
+<sup>2</sup> Essa raccoglie, tratta, archivia, analizza e diffonde dati […] e informazioni statistiche, nel rispetto dei principi fondamentali enunciati agli articoli 4 e 5 di questa legge.  
+<br>
+[…]  
+<br>
+<sup>4</sup> Le informazioni della statistica cantonale servono a:  
+  .white[.........]
+    a) rispondere […] ai bisogni d’informazione della collettività, dei suoi organi e delle sue componenti, in particolare le collettività pubbliche, gli ambienti scientifici e economici, i partner sociali, i diversi gruppi d’interesse, i media e il pubblico in generale;  
+  .white[.........]
+    b) preparare, realizzare e valutare i compiti del Cantone;  
+  .white[.........]
+    c) contribuire alla conoscenza e all’analisi dei fenomeni e delle loro evoluzioni […];  
+  .white[.........]
+    d) realizzare progetti di ricerca d’interesse generale.
+]
+]
+
+---
+
+# Come lo fa?
+
+.left-column[
+#### Compiti della statistica cantonale 
+#### I principi fondamentali
+
+]
+
+--
+
+.right-column[
+*Legge statistica cantonale (LStaC)*  
+##### Art. 4
+.font70[
+[…]  
+<br>
+<sup>3</sup> La statistica cantonale opera in base a principi scientifici universalmente riconosciuti, nel rispetto delle regole deontologiche e in completa indipendenza scientifica, allo scopo di garantire in particolare la qualità e l’imparzialità delle informazioni statistiche.  
+<br> 
+[…]  
+<br>
+Questi principî sono specificati nella .hl[Carta della statistica] pubblica svizzera (2012), che costituisce il codice di buone pratiche del settore.  
+<br>
+[www.conseilethique-stat.ch/charte](http://www.conseilethique-stat.ch/charte/)
+
+]
+]
+
+---
+class: middle clear
+
+
+<br>
+.font80[
+Per ulteriori approfondimenti potete scrivere a :  
+<br>  
+.white[......].mid-warm-grey[--> ][pau.origoni@ti.ch](mailto:pau.origoni@ti.ch), oppure a  
+.white[......].mid-warm-grey[--> ][dfe-ustat@ti.ch](mailto:dfe-ustat@ti.ch)
+]
+
+<br>  
+<br>  
+<br>  
+.font60[
+.mid-warm-grey[
+Slides create con R, via [**{xaringan}**](https://github.com/yihui/xaringan)
+]
+]
